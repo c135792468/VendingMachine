@@ -1,0 +1,17 @@
+com\sg\vendingmachine\dao\VendingMachineAuditDao.class
+com\sg\vendingmachine\dao\VendingMachineAuditDaoFileImpl.class
+com\sg\vendingmachine\service\VendingMachineItemNotFoundException.class
+com\sg\vendingmachine\service\VendingMachineItemSoldOutException.class
+com\sg\vendingmachine\service\VendingMachineInsufficientFundsException.class
+com\sg\vendingmachine\ui\UserIOConsoleImpl.class
+com\sg\vendingmachine\dao\VendingMachinePersistenceException.class
+com\sg\vendingmachine\ui\UserIO.class
+com\sg\vendingmachine\service\VendingMachineServiceLayerImpl.class
+com\sg\vendingmachine\ui\VendingMachineView.class
+com\sg\vendingmachine\dto\Item.class
+com\sg\vendingmachine\service\VendingMachineServiceLayer.class
+com\sg\vendingmachine\VendingMachine.class
+com\sg\vendingmachine\dto\Coin.class
+com\sg\vendingmachine\dao\VendingMachineDao.class
+com\sg\vendingmachine\dao\VendingMachineDaoFileImpl.class
+com\sg\vendingmachine\controller\VendingMachineController.class
